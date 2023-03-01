@@ -2,7 +2,14 @@
     "banner": [
         {
             "title": "A sua empresa de vedação industrial", 
-            "subtitle": "Somos especialistas em vedação industrial com mais de 20 anos de experiência"
+            "subtitle": "Somos especialistas em vedação industrial com mais de 20 anos de experiência",
+            "button": "Falar com especialista"
+        }
+    ],
+    "about": [
+        {
+            "title": "Somos a maior fabricante de produtos industriais do Sul do Brasil!",
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum consequatur eveniet beatae. Necessitatibus optio delectus voluptate iure natus obcaecati?"
         }
     ]
 }
