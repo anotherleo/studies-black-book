@@ -1,21 +1,22 @@
 {
-    "social": [
-        {
-            "urlWhatsapp": "https://www.whatsapp.com/"
-        }
-    ],
-    "banner": [
-        {
-            "bannerTitle": "A sua empresa de vedação industrial", 
-            "bannerSubtitle": "Somos especialistas em vedação industrial com mais de 20 anos de experiência",
-            "bannerButton": "Falar com especialista"
-        }
-    ],
-    "about": [
-        {
-            "aboutTitle": "Somos a maior fabricante de produtos industriais do Sul do Brasil!",
-            "aboutText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum consequatur eveniet beatae. Necessitatibus optio delectus voluptate iure natus obcaecati?",
-            "aboutButton": "Saiba mais"
-        }
-    ]
+  "social": [
+    {
+      "urlWhatsapp": "https://www.whatsapp.com/"
+    }
+  ],
+  "banner": [
+    {
+      "bannerTitle": "A sua empresa de vedação industrial",
+      "bannerSubtitle": "Somos especialistas em vedação industrial com mais de 20 anos de experiência",
+      "bannerButton": "Falar com especialista"
+    }
+  ],
+  "about": [
+    {
+      "aboutTitle": "Somos a maior fabricante de produtos industriais do Sul do Brasil!",
+      "aboutText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum consequatur eveniet beatae. Necessitatibus optio delectus voluptate iure natus obcaecati?",
+      "aboutButton": "Saiba mais",
+      "aboutUrl": "/sobre"
+    }
+  ]
 }
