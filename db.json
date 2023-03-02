@@ -18,5 +18,11 @@
       "aboutButtonText": "Saiba mais",
       "aboutButtonUrl": "/sobre"
     }
+  ],
+  "numbers": [
+    {
+      "number1": "+12",
+      "text1": "anos\\nde experiência"
+    }
   ]
 }
