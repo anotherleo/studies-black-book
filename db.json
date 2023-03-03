@@ -28,5 +28,11 @@
       "number3": "+500",
       "text3": "profissionais qualificados"
     }
+  ],
+  "departments": [
+    {
+      "departmentsTitle": "Setores que atendemos",
+      "departmentsText": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis temporibus dolorum exercitationem voluptatem iste."
+    }
   ]
 }
