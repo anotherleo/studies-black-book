@@ -22,7 +22,11 @@
   "numbers": [
     {
       "number1": "+12",
-      "text1": "anos\\nde experiência"
+      "text1": "anos de experiência",
+      "number2": "+2k",
+      "text2": "produtos industriais",
+      "number3": "+500",
+      "text3": "profissionais qualificados"
     }
   ]
 }
