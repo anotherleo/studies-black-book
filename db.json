@@ -48,6 +48,36 @@
           "id": 3,
           "name": "Siderúrgica",
           "icon": "img/departments/departments-3.svg"
+        },
+        {
+          "id": 4,
+          "name": "Indústria Naval",
+          "icon": "img/departments/departments-4.svg" 
+        },
+        {
+          "id": 5,
+          "name": "Usineira",
+          "icon": "img/departments/departments-5.svg"
+        },
+        {
+          "id": 6,
+          "name": "Caldeiraria",
+          "icon": "img/departments/departments-6.svg"
+        },
+        {
+          "id": 7,
+          "name": "Indústria Química",
+          "icon": "img/departments/departments-7.svg"
+        },
+        {
+          "id": 8,
+          "name": "Alimentícia",
+          "icon": "img/departments/departments-8.svg"
+        },
+        {
+          "id": 9,
+          "name": "Outros",
+          "icon": "img/departments/departments-9.svg"
         }
       ]
     }
