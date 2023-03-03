@@ -32,7 +32,24 @@
   "departments": [
     {
       "departmentsTitle": "Setores que atendemos",
-      "departmentsText": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis temporibus dolorum exercitationem voluptatem iste."
+      "departmentsText": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis temporibus dolorum exercitationem voluptatem iste.",
+      "departmentsList": [
+        {
+          "id": 1,
+          "name": "Petroquímicos",
+          "icon": "img/departments/departments-1.svg"
+        },
+        {
+          "id": 2,
+          "name": "Mineração",
+          "icon": "img/departments/departments-2.svg"
+        },
+        {
+          "id": 3,
+          "name": "Siderúrgica",
+          "icon": "img/departments/departments-3.svg"
+        }
+      ]
     }
   ]
 }
